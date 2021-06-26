@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Martin-R-Peterson/react-vader/static/css/main.560921c7.chunk.css",
+    "main.js": "/Martin-R-Peterson/react-vader/static/js/main.218673be.chunk.js",
+    "main.js.map": "/Martin-R-Peterson/react-vader/static/js/main.218673be.chunk.js.map",
+    "runtime-main.js": "/Martin-R-Peterson/react-vader/static/js/runtime-main.e721484c.js",
+    "runtime-main.js.map": "/Martin-R-Peterson/react-vader/static/js/runtime-main.e721484c.js.map",
+    "static/js/2.be65498f.chunk.js": "/Martin-R-Peterson/react-vader/static/js/2.be65498f.chunk.js",
+    "static/js/2.be65498f.chunk.js.map": "/Martin-R-Peterson/react-vader/static/js/2.be65498f.chunk.js.map",
+    "static/js/3.1d138c4b.chunk.js": "/Martin-R-Peterson/react-vader/static/js/3.1d138c4b.chunk.js",
+    "static/js/3.1d138c4b.chunk.js.map": "/Martin-R-Peterson/react-vader/static/js/3.1d138c4b.chunk.js.map",
+    "index.html": "/Martin-R-Peterson/react-vader/index.html",
+    "static/css/main.560921c7.chunk.css.map": "/Martin-R-Peterson/react-vader/static/css/main.560921c7.chunk.css.map",
+    "static/js/2.be65498f.chunk.js.LICENSE.txt": "/Martin-R-Peterson/react-vader/static/js/2.be65498f.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/Martin-R-Peterson/react-vader/static/media/regn.d85a5067.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e721484c.js",
+    "static/js/2.be65498f.chunk.js",
+    "static/css/main.560921c7.chunk.css",
+    "static/js/main.218673be.chunk.js"
+  ]
+}
